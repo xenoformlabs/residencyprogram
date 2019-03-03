@@ -85,6 +85,13 @@ git push -u origin master
 #### Show your remote
 git remote -v
 
+#### Swap username
+git config user.name xxx
+git config user.email xxx@xxx.xxx
+
+#### The requested URL returned error: 403
+
+git remote -v
 
 
 

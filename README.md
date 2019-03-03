@@ -67,6 +67,23 @@ My Canvas is [here](https://docs.google.com/presentation/d/1o4Dpru5YvAOTcNw9xoq_
 2. Actually write the article itself
 
 
+### Git Tricks
+
+
+
+#### Pushing changes to github
+
+Open Terminal Window
+cd into your directory [drag from desktop, etc]
+
+git add . 
+
+git commit -m "commit message"
+
+git push -u origin master
+
+#### Show your remote
+git remote -v
 
 
 

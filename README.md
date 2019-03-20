@@ -38,61 +38,6 @@ And what I want to do here is to figure out a way to make the process be open �
 My Canvas is [here](https://docs.google.com/presentation/d/1o4Dpru5YvAOTcNw9xoq_SIpuqpCGFFmNOSIe8AdiMp8) this shows a diagram of the problems-solutions overview
 
 
-## Roadmap
-### Goals
-(1) Have an online repository that is useful that people can look at to understand the Inquiry-Experimentation-Shape work that artists are doing at Xenoform Labs
-
-(2) Publish my “Art Thinking” diagram
-
-(3) Well-designed website for Xenoform Labs that archive this work.
-
-
-#### Milestone: Online Repository  [2/28/19]	
-
-1. 	Setup GitHub for Xenoform Labs (done: [https://github.com/scottkildall/xenoformlabs]()), though I'd prefer to have
-1. Put content from previous residencies (Bruno + Ruth and Nathaniel Stern) on there
-1. 	Cross-reference on XL Website
-
-#### Milestone: Xenoform Labs Website [3/31/19]
-1. Find web designer [done]
-1. Investigate Recurse as a model: https://www.recurse.com/
-1. 	Begin oversight and XL website work (waiting on her)
-1. Develop content for past residents and future residents
-1. Approve final content
-
-#### Milestone: Publish Art Thinking diagram  [4/30/19]
-1. 	Confirm publishing venue with Rhiannon
-1. 	Seek out other venues for publishing
-1. 	Think about other connectors for where to publish it
-2. Actually write the article itself
-
-
-### Git Tricks
-
-
-
-#### Pushing changes to github
-
-Open Terminal Window
-cd into your directory [drag from desktop, etc]
-
-git add . 
-
-git commit -m "commit message"
-
-git push -u origin master
-
-#### Show your remote
-git remote -v
-
-#### Swap usernames
-git config user.name xxx
-git config user.email xxx@xxx.xxx
-
-#### The requested URL returned error: 403
-This thread shows the problem:
-
-https://stackoverflow.com/questions/24275375/how-can-i-store-keychain-credentials-for-multiple-github-accounts
 
 
 ## Copyright and License

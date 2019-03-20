@@ -33,6 +33,24 @@ Open Terminal window (Mac) then cd into your directory [drag from desktop, etc]
 git pull origin master
 ```
 
+#### Show your remote
+
+```
+git remote -v
+```
+
+#### Swap usernames
+
+```
+git config user.name xxx
+git config user.email xxx@xxx.xxx
+```
+
+#### The requested URL returned error: 403
+This thread shows the problem:
+
+[https://stackoverflow.com/questions/24275375/how-can-i-store-keychain-credentials-for-multiple-github-accounts
+]()
 ## Brainstorming Sessions
 
 For the brainstorming sessions, we definitely want to open source all of these. For now, we will photograph/scan the index cards and upload them.

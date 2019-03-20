@@ -85,14 +85,14 @@ git push -u origin master
 #### Show your remote
 git remote -v
 
-#### Swap username
+#### Swap usernames
 git config user.name xxx
 git config user.email xxx@xxx.xxx
 
 #### The requested URL returned error: 403
+This thread shows the problem:
 
-git remote -v
-
+https://stackoverflow.com/questions/24275375/how-can-i-store-keychain-credentials-for-multiple-github-accounts
 
 
 ## Copyright and License
